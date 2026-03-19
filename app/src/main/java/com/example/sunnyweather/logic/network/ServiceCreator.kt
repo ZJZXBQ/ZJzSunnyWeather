@@ -1,4 +1,4 @@
-package com.example.sunnyweather.logic.model
+package com.example.sunnyweather.logic.network
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

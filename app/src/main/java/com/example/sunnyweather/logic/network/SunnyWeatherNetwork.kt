@@ -1,6 +1,6 @@
 package com.example.sunnyweather.logic.network
 
-import com.example.sunnyweather.logic.model.ServiceCreator
+import com.example.sunnyweather.logic.network.ServiceCreator
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
